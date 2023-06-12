@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+User-agent: *
+Allow: /
+Sitemap: https://www.bedcomfort.co.uk/sitemap.xml
+Sitemap: https://www.bedcomfort.co.uk/collections-sitemap.xml
+Sitemap: https://www.bedcomfort.co.uk/products-sitemap.xml

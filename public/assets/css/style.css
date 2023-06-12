@@ -1,0 +1,25 @@
+p{
+    margin: 0;
+}
+.navbar-nav .nav-link{
+    color: #000000;
+}
+
+.navbar-nav .nav-link.active{
+    color: #0569bb;
+}
+
+.bg-theme{
+    background-color: #CED8E0;
+}
+
+
+.company-link{
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.company-link:hover{
+    text-decoration: underline;
+}
